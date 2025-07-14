@@ -26,17 +26,17 @@ This course is focus on Maze Solving behavior of robot In a Simulation based on 
 ## ⛲ Features
 ---
 * **Custom Robot Integeration**<br/><br/>
-  - ![alt text](https://github.com/HaiderAbasi/ROS2-Path-Planning-and-Maze-Solving/blob/master/images/robot_model.gif)<br/><br/>
+  - ![alt text](/images/robot_model.gif)<br/><br/>
 * **Drive to Goal Nodes**<br/><br/>
-  - ![alt text](https://github.com/HaiderAbasi/ROS2-Path-Planning-and-Maze-Solving/blob/master/images/nodes.gif)<br/><br/>
+  - ![alt text](/images/nodes.gif)<br/><br/>
 * **Custom World Setup**<br/><br/>
-  - ![alt text](https://github.com/HaiderAbasi/ROS2-Path-Planning-and-Maze-Solving/blob/master/images/world.gif)<br/><br/>
+  - ![alt text](images/world.gif)<br/><br/>
 * **Mapping**<br/><br/>
-  - ![alt text](https://github.com/HaiderAbasi/ROS2-Path-Planning-and-Maze-Solving/blob/master/images/mapping.gif)<br/><br/>
+  - ![alt text](images/mapping.gif)<br/><br/>
 * **Path Planning**<br/><br/>
-  - ![alt text](https://github.com/HaiderAbasi/ROS2-Path-Planning-and-Maze-Solving/blob/master/images/path_planning.gif)<br/><br/>
+  - ![alt text](/images/path_planning.gif)<br/><br/>
 * **Maze Solving**<br/><br/>
-  - ![alt text](https://github.com/HaiderAbasi/ROS2-Path-Planning-and-Maze-Solving/blob/master/images/maze_solving.gif)<br/><br/>
+  - ![alt text](images/maze_solving.gif)<br/><br/>
 
 
 ## 🧊 Requirments:
