@@ -19,7 +19,7 @@ E.g ( self.bot_localizer.localize_bot(self.sat_view, frame_disp) )
 2) self.maze_og => Occupancy Grid generated from the cropped maze
 
 Author :
-Haider Abbasi
+Rahul Panchal
 
 Date :
 6/04/22

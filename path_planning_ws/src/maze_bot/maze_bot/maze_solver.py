@@ -17,7 +17,7 @@ This node is subscribing video feed from (Satellite or DroneCam)
 This node publishes on topic "/cmd_vel" , the required velocity ( linear and angular ) to move the robot
 
 Author :
-Haider Abbasi
+Rahul Panchal
 
 Date :
 18/03/22

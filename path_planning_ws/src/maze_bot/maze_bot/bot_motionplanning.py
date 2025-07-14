@@ -21,7 +21,7 @@ E.g ( self.bot_motionplanner.nav_path(bot_loc, path, self.vel_msg, self.velocity
 2) angle              => Amount of turning the car needs to do at any moment
 
 Author :
-Haider Abbasi
+Rahul Panchal
 
 Date :
 6/04/22
