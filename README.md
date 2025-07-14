@@ -1,4 +1,4 @@
-# Maze Solving using Computer Vision In ROS2
+# Vision based Maze Solving Robot using ROS2
 
 ## Repository contents
 <details open="open">
