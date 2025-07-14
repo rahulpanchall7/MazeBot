@@ -36,7 +36,7 @@ This course is focus on Maze Solving behavior of robot In a Simulation based on 
 * **Path Planning**<br/><br/>
   - ![alt text](/images/path_planning.gif)<br/><br/>
 * **Maze Solving**<br/><br/>
-  - ![alt text](images/maze_solving.gif)<br/><br/>
+  - ![alt text](/images/maze_solving.gif)<br/><br/>
 
 
 ## 🧊 Requirments:
