@@ -1,6 +1,5 @@
 # Maze Solving using Computer Vision In ROS2
 
-[![alt text](https://github.com/HaiderAbasi/ROS2-Path-Planning-and-Maze-Solving/blob/master/images/cover.png)](https://youtu.be/Ejl4ZLKo3Cc "Click to Watch Intro Video on Youtube")
 ## Repository contents
 <details open="open">
   <summary>Table of Contents</summary>
