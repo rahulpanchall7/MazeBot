@@ -13,15 +13,12 @@
 
 ## 🤝Repository's About
 ---
-This course is focus on Maze Solving behavior of robot In a Simulation based on ROS2. Computer Vision is the key focus with integrated important robotics algorithms of Motion Planning . The type of robot we will be using is Differential Drive Robot with a caster wheel .
+This project focus on Maze Solving behavior of robot In a Simulation based on ROS2. Computer Vision is the key focus with integrated important robotics algorithms of Motion Planning. The type of robot used is Differential Drive Robot with a caster wheel .
 - Custom Robot Creation
 - Gazebo and Rviz Integrations
 - Localization
 - Navigation
 - Path Planning
-
-## ⚡ Using this Repository
-----
 
 ## ⛲ Features
 ---
